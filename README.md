@@ -1,2 +1,1 @@
-- 🌱 I’m currently learning ...
-Em constante evolução 🚀🚀
+m constante evolução 🚀🚀
