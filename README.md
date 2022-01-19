@@ -1,2 +1,3 @@
-Em constante evolução 🚀🚀
-Front-end 💻🚀📚❤
+Em constante evolução 🚀
+
+Front-end 📚❤💻
