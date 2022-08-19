@@ -1,4 +1,4 @@
-Em constante evolução 🚀
+🚀🚀🚀
 
-Conhecimento em Sistema ERP.
-
+Apaixonada pelo mundo de TI e Sistemas, cursando Análise e Desenvolvimento de Sistemas. Tenho também experiência em Desenvolvimento WEB e nos sistemas ERP Protheus e RM.
+Buscando evolução!!
