@@ -17,7 +17,6 @@ Buscando evolução!!
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Carine-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carine-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Carine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -26,8 +25,6 @@ Buscando evolução!!
   
   <div>
   <a href="https://www.linkedin.com/in/carinesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-![Snake animation](https://github.com/CarineSilva/CarineSilva/blob/output/github-contribution-grid-snake.svg)
- 
+
     
   </div>
